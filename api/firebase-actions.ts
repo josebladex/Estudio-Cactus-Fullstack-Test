@@ -2,6 +2,7 @@
 import { collection, getDocs } from "firebase/firestore";
 import { db } from "@/lib/firebase";
 
+
 export interface Point {
   id: string;
   x: number;
