@@ -17,6 +17,7 @@ The **Room Configurator** is a web application that allows users to design and v
 - **Firebase**
 - **TypeScript**
 - **Tailwind CSS**
+- **React Icons**
 
 ## Installation
 
@@ -33,4 +34,3 @@ The **Room Configurator** is a web application that allows users to design and v
    ```bash
    pnpm run dev   
 
-## The responsive design is not optimal because the coordinates of each button follow a constant in the backend. It can be improved by making these coordinates dynamic based on the device's area, saving two database queries.
